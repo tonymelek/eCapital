@@ -1,0 +1,25 @@
+{
+    "uid": "gyVaucdxgRMaoEjAah9d7ugL7WW2",
+    "email": "tonymelek.au@gmail.com",
+    "emailVerified": false,
+    "isAnonymous": false,
+    "providerData": [
+        {
+            "providerId": "password",
+            "uid": "tonymelek.au@gmail.com",
+            "displayName": null,
+            "email": "tonymelek.au@gmail.com",
+            "phoneNumber": null,
+            "photoURL": null
+        }
+    ],
+    "stsTokenManager": {
+        "refreshToken": "AIwUaOnATs8u4YTN0RRtfcE-11Ya6argPcfIPdKN1M9-cNLPXxj5yjAJ6ejKkBS30vKzxEilIH8mwu48q24-Ik7sirD07EtnyVsv3_2JCeYsV3rXQbLnOc8g2AlJVn4XYxOaZThCF4tgq7nsPRCBfEfdMOsFz2dpiCnL1E89kz1JYAMlXv8IjuKWaMFRAkGOW7b8VG-HiJjwCK1QuN2vznSaU69VdPhgSQ",
+        "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImJlYmYxMDBlYWRkYTMzMmVjOGZlYTU3ZjliNWJjM2E2YWIyOWY1NTUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZWNhcGl0YWwtMjdmYjciLCJhdWQiOiJlY2FwaXRhbC0yN2ZiNyIsImF1dGhfdGltZSI6MTY1MjU3MzAwOSwidXNlcl9pZCI6Imd5VmF1Y2R4Z1JNYW9FakFhaDlkN3VnTDdXVzIiLCJzdWIiOiJneVZhdWNkeGdSTWFvRWpBYWg5ZDd1Z0w3V1cyIiwiaWF0IjoxNjUyNTczMDA5LCJleHAiOjE2NTI1NzY2MDksImVtYWlsIjoidG9ueW1lbGVrLmF1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJ0b255bWVsZWsuYXVAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.FqV0Oe_kkHdlrM3ZTsOGfDnLvzLyBoL_eI41rBtcytUMvSWraYNopEVe6F02wJdXQLOuANk-449Pdn5mWf5LvKdSeHHMQus7Ap0lQAj5GDGsYXv1xzpyz3mRLFsmMBcM0JArMUx6g_fkkODQqiXkgLOMrweVl6yQDyQdAb1MqsjmvqUnkH-8GGm1SM11nAfDW4OsHf0RN9g35XWqJRdBlA9qDBF0Us3O3AaJ53Pc9gaw2BUolKbsujlnTOQdfipCOdYw5Wa_0yDjEoV2BX68RGT3Rr933rHln50DRkJbj1Z6xOw7AfDoIu2iuyaou2IN8vdsrVRJ-0syubokuW9CXg",
+        "expirationTime": 1652576608268
+    },
+    "createdAt": "1652573008760",
+    "lastLoginAt": "1652573008760",
+    "apiKey": "AIzaSyB4hPzDaHDcgCL6an5dB4-HXl1rpsCdXgA",
+    "appName": "[DEFAULT]"
+}
